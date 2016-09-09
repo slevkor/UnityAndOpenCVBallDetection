@@ -5,3 +5,8 @@ files :
 
 UnityBallRecognitionProject.docx - a guide to explain the project's workflow.
 
+UnityVRGipProj - The unity project , can be opened with Unity.
+
+\AndroidApp\UnityVRGipProjFinal - The Android app , can be opened with Android Studio
+
+
