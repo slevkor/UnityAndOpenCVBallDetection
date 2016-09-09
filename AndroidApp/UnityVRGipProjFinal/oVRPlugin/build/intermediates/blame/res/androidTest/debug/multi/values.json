@@ -1,0 +1,66 @@
+[
+    {
+        "outputFile": "C:\\Users\\lev\\Documents\\UnityVRGipProj\\app\\UnityVRGipProjFinal\\oVRPlugin\\build\\intermediates\\res\\merged\\androidTest\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 51,
+                    "endOffset": 102
+                },
+                "from": {
+                    "file": "C:\\Users\\lev\\Documents\\UnityVRGipProj\\app\\UnityVRGipProjFinal\\oVRPlugin\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 51,
+                        "endOffset": 102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 107,
+                    "endColumn": 43,
+                    "endOffset": 146
+                },
+                "from": {
+                    "file": "C:\\Users\\lev\\Documents\\UnityVRGipProj\\app\\UnityVRGipProjFinal\\oVRPlugin\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 107,
+                        "endColumn": 43,
+                        "endOffset": 146
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 151,
+                    "endLine": 5,
+                    "endColumn": 8,
+                    "endOffset": 244
+                },
+                "from": {
+                    "file": "C:\\Users\\lev\\Documents\\UnityVRGipProj\\app\\UnityVRGipProjFinal\\oVRPlugin\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endLine": 5,
+                        "endColumn": 8,
+                        "endOffset": 244
+                    }
+                }
+            }
+        ]
+    }
+]

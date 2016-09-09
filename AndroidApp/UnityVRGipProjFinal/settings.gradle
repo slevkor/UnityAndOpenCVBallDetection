@@ -1,0 +1,3 @@
+include ':oVRPlugin'
+include ':unityVRGipProj'
+include ':libs:opencv'

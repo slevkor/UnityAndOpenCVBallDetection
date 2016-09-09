@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\lev\Documents\UnityVRGipProj\app\UnityVRGipProjFinal\unityVRGipProj\build\intermediates\exploded-aar\UnityVRGipProjFinal.libs\opencv\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="17e5b6edfc02c32db0e8b3d7930554f64b538580">
+        <dex dex="C:\Users\lev\Documents\UnityVRGipProj\app\UnityVRGipProjFinal\unityVRGipProj\build\intermediates\pre-dexed\debug\UnityVRGipProjFinal.libs-opencv-unspecified_6ac2cd554f0e8ecdda7ab7e310766e373f91d65a.jar" />
+    </item>
+    <item
+        jar="C:\Users\lev\Documents\UnityVRGipProj\app\UnityVRGipProjFinal\unityVRGipProj\build\intermediates\exploded-aar\UnityVRGipProjFinal\oVRPlugin\unspecified\jars\libs\vrplatlib.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2688855316546fc65f70c7645d259b816f7ae6b1">
+        <dex dex="C:\Users\lev\Documents\UnityVRGipProj\app\UnityVRGipProjFinal\unityVRGipProj\build\intermediates\pre-dexed\debug\vrplatlib_873860446ae13b63a2beb43f7facf1e3bd2e1c45.jar" />
+    </item>
+    <item
+        jar="C:\Users\lev\Documents\UnityVRGipProj\app\UnityVRGipProjFinal\unityVRGipProj\build\intermediates\exploded-aar\UnityVRGipProjFinal\oVRPlugin\unspecified\jars\libs\SystemUtils.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0c3d5186a15dc8e959524e5bd19956fd79571446">
+        <dex dex="C:\Users\lev\Documents\UnityVRGipProj\app\UnityVRGipProjFinal\unityVRGipProj\build\intermediates\pre-dexed\debug\SystemUtils_1a67de5e933bcafe032df74e4c80f23c6c4a6a18.jar" />
+    </item>
+    <item
+        jar="C:\Users\lev\Documents\UnityVRGipProj\app\UnityVRGipProjFinal\unityVRGipProj\build\intermediates\exploded-aar\UnityVRGipProjFinal\oVRPlugin\unspecified\jars\libs\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="359b41f25ee062cd373bdb74dfc4fc241ccb6246">
+        <dex dex="C:\Users\lev\Documents\UnityVRGipProj\app\UnityVRGipProjFinal\unityVRGipProj\build\intermediates\pre-dexed\debug\oVRPlugin-unspecified-jars_ca9b40f9bffdaa9c67c34addc09a56ba38dc74a9.jar" />
+    </item>
+    <item
+        jar="C:\Users\lev\Documents\UnityVRGipProj\app\UnityVRGipProjFinal\unityVRGipProj\build\intermediates\exploded-aar\UnityVRGipProjFinal\oVRPlugin\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f64921341a7b6e294c97b5db486c65d7654bd35b">
+        <dex dex="C:\Users\lev\Documents\UnityVRGipProj\app\UnityVRGipProjFinal\unityVRGipProj\build\intermediates\pre-dexed\debug\UnityVRGipProjFinal-oVRPlugin-unspecified_659e4fb04c5bc3a29554e28d978f5f952c1ce44e.jar" />
+    </item>
+    <item
+        jar="C:\Users\lev\Documents\UnityVRGipProj\app\UnityVRGipProjFinal\unityVRGipProj\libs\unity-classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="93fa9a51dbd4f87bb42ef88062eb2deb4ff62c23">
+        <dex dex="C:\Users\lev\Documents\UnityVRGipProj\app\UnityVRGipProjFinal\unityVRGipProj\build\intermediates\pre-dexed\debug\unity-classes_cc342a354bda13fa3a9d84f6ef73145127c818ac.jar" />
+    </item>
+    <item
+        jar="C:\Users\lev\Documents\UnityVRGipProj\app\UnityVRGipProjFinal\unityVRGipProj\build\intermediates\exploded-aar\UnityVRGipProjFinal\oVRPlugin\unspecified\jars\libs\OculusUtilities.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="23e530fe86afe0f0ecaadf586fafac4a65bf2995">
+        <dex dex="C:\Users\lev\Documents\UnityVRGipProj\app\UnityVRGipProjFinal\unityVRGipProj\build\intermediates\pre-dexed\debug\OculusUtilities_78fd5142775fd3a7498b8a0b39503ea23f1aae73.jar" />
+    </item>
+
+</items>

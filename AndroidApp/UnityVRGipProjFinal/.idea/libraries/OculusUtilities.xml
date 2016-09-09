@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="OculusUtilities">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/oVRPlugin/libs/OculusUtilities.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

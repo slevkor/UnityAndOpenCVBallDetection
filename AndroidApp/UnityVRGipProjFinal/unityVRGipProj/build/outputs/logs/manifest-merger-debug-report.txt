@@ -1,0 +1,141 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\lev\Documents\UnityVRGipProj\app\UnityVRGipProjFinal\unityVRGipProj\src\main\AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from C:\Users\lev\Documents\UnityVRGipProj\app\UnityVRGipProjFinal\unityVRGipProj\src\main\AndroidManifest.xml:2:120-143
+		INJECTED from C:\Users\lev\Documents\UnityVRGipProj\app\UnityVRGipProjFinal\unityVRGipProj\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\lev\Documents\UnityVRGipProj\app\UnityVRGipProjFinal\unityVRGipProj\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\lev\Documents\UnityVRGipProj\app\UnityVRGipProjFinal\unityVRGipProj\src\main\AndroidManifest.xml:2:94-119
+		INJECTED from C:\Users\lev\Documents\UnityVRGipProj\app\UnityVRGipProjFinal\unityVRGipProj\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\lev\Documents\UnityVRGipProj\app\UnityVRGipProjFinal\unityVRGipProj\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\lev\Documents\UnityVRGipProj\app\UnityVRGipProjFinal\unityVRGipProj\src\main\AndroidManifest.xml:2:70-93
+		INJECTED from C:\Users\lev\Documents\UnityVRGipProj\app\UnityVRGipProjFinal\unityVRGipProj\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\lev\Documents\UnityVRGipProj\app\UnityVRGipProjFinal\unityVRGipProj\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\lev\Documents\UnityVRGipProj\app\UnityVRGipProjFinal\unityVRGipProj\src\main\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from C:\Users\lev\Documents\UnityVRGipProj\app\UnityVRGipProjFinal\unityVRGipProj\src\main\AndroidManifest.xml:2:144-184
+supports-screens
+ADDED from C:\Users\lev\Documents\UnityVRGipProj\app\UnityVRGipProjFinal\unityVRGipProj\src\main\AndroidManifest.xml:3:3-163
+	android:largeScreens
+		ADDED from C:\Users\lev\Documents\UnityVRGipProj\app\UnityVRGipProjFinal\unityVRGipProj\src\main\AndroidManifest.xml:3:47-74
+	android:smallScreens
+		ADDED from C:\Users\lev\Documents\UnityVRGipProj\app\UnityVRGipProjFinal\unityVRGipProj\src\main\AndroidManifest.xml:3:104-131
+	android:normalScreens
+		ADDED from C:\Users\lev\Documents\UnityVRGipProj\app\UnityVRGipProjFinal\unityVRGipProj\src\main\AndroidManifest.xml:3:75-103
+	android:xlargeScreens
+		ADDED from C:\Users\lev\Documents\UnityVRGipProj\app\UnityVRGipProjFinal\unityVRGipProj\src\main\AndroidManifest.xml:3:132-160
+	android:anyDensity
+		ADDED from C:\Users\lev\Documents\UnityVRGipProj\app\UnityVRGipProjFinal\unityVRGipProj\src\main\AndroidManifest.xml:3:21-46
+application
+ADDED from C:\Users\lev\Documents\UnityVRGipProj\app\UnityVRGipProjFinal\unityVRGipProj\src\main\AndroidManifest.xml:4:3-16:17
+MERGED from [UnityVRGipProjFinal:oVRPlugin:unspecified] C:\Users\lev\Documents\UnityVRGipProj\app\UnityVRGipProjFinal\unityVRGipProj\build\intermediates\exploded-aar\UnityVRGipProjFinal\oVRPlugin\unspecified\AndroidManifest.xml:11:5-19:19
+	android:label
+		ADDED from C:\Users\lev\Documents\UnityVRGipProj\app\UnityVRGipProjFinal\unityVRGipProj\src\main\AndroidManifest.xml:4:50-82
+	android:debuggable
+		ADDED from C:\Users\lev\Documents\UnityVRGipProj\app\UnityVRGipProjFinal\unityVRGipProj\src\main\AndroidManifest.xml:4:83-109
+	android:icon
+		ADDED from C:\Users\lev\Documents\UnityVRGipProj\app\UnityVRGipProjFinal\unityVRGipProj\src\main\AndroidManifest.xml:4:16-49
+	android:banner
+		ADDED from C:\Users\lev\Documents\UnityVRGipProj\app\UnityVRGipProjFinal\unityVRGipProj\src\main\AndroidManifest.xml:4:132-169
+	android:theme
+		ADDED from C:\Users\lev\Documents\UnityVRGipProj\app\UnityVRGipProjFinal\unityVRGipProj\src\main\AndroidManifest.xml:4:170-234
+	android:isGame
+		ADDED from C:\Users\lev\Documents\UnityVRGipProj\app\UnityVRGipProjFinal\unityVRGipProj\src\main\AndroidManifest.xml:4:110-131
+activity#com.GIP.VRAPP.OurUnityPlayer
+ADDED from C:\Users\lev\Documents\UnityVRGipProj\app\UnityVRGipProjFinal\unityVRGipProj\src\main\AndroidManifest.xml:5:5-14:16
+	android:screenOrientation
+		ADDED from C:\Users\lev\Documents\UnityVRGipProj\app\UnityVRGipProjFinal\unityVRGipProj\src\main\AndroidManifest.xml:5:48-85
+	android:label
+		ADDED from C:\Users\lev\Documents\UnityVRGipProj\app\UnityVRGipProjFinal\unityVRGipProj\src\main\AndroidManifest.xml:5:15-47
+	android:launchMode
+		ADDED from C:\Users\lev\Documents\UnityVRGipProj\app\UnityVRGipProjFinal\unityVRGipProj\src\main\AndroidManifest.xml:6:9-40
+	android:configChanges
+		ADDED from C:\Users\lev\Documents\UnityVRGipProj\app\UnityVRGipProjFinal\unityVRGipProj\src\main\AndroidManifest.xml:6:41-198
+	android:name
+		ADDED from C:\Users\lev\Documents\UnityVRGipProj\app\UnityVRGipProjFinal\unityVRGipProj\src\main\AndroidManifest.xml:7:9-52
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER+android.intent.category.LEANBACK_LAUNCHER
+ADDED from C:\Users\lev\Documents\UnityVRGipProj\app\UnityVRGipProjFinal\unityVRGipProj\src\main\AndroidManifest.xml:8:7-12:23
+action#android.intent.action.MAIN
+ADDED from C:\Users\lev\Documents\UnityVRGipProj\app\UnityVRGipProjFinal\unityVRGipProj\src\main\AndroidManifest.xml:9:9-61
+	android:name
+		ADDED from C:\Users\lev\Documents\UnityVRGipProj\app\UnityVRGipProjFinal\unityVRGipProj\src\main\AndroidManifest.xml:9:17-58
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\lev\Documents\UnityVRGipProj\app\UnityVRGipProjFinal\unityVRGipProj\src\main\AndroidManifest.xml:10:9-69
+	android:name
+		ADDED from C:\Users\lev\Documents\UnityVRGipProj\app\UnityVRGipProjFinal\unityVRGipProj\src\main\AndroidManifest.xml:10:19-66
+category#android.intent.category.LEANBACK_LAUNCHER
+ADDED from C:\Users\lev\Documents\UnityVRGipProj\app\UnityVRGipProjFinal\unityVRGipProj\src\main\AndroidManifest.xml:11:9-78
+	android:name
+		ADDED from C:\Users\lev\Documents\UnityVRGipProj\app\UnityVRGipProjFinal\unityVRGipProj\src\main\AndroidManifest.xml:11:19-75
+meta-data#unityplayer.UnityActivity
+ADDED from C:\Users\lev\Documents\UnityVRGipProj\app\UnityVRGipProjFinal\unityVRGipProj\src\main\AndroidManifest.xml:13:7-82
+	android:value
+		ADDED from C:\Users\lev\Documents\UnityVRGipProj\app\UnityVRGipProjFinal\unityVRGipProj\src\main\AndroidManifest.xml:13:59-79
+	android:name
+		ADDED from C:\Users\lev\Documents\UnityVRGipProj\app\UnityVRGipProjFinal\unityVRGipProj\src\main\AndroidManifest.xml:13:18-58
+meta-data#com.samsung.android.vr.application.mode
+ADDED from C:\Users\lev\Documents\UnityVRGipProj\app\UnityVRGipProjFinal\unityVRGipProj\src\main\AndroidManifest.xml:15:5-97
+MERGED from [UnityVRGipProjFinal:oVRPlugin:unspecified] C:\Users\lev\Documents\UnityVRGipProj\app\UnityVRGipProjFinal\unityVRGipProj\build\intermediates\exploded-aar\UnityVRGipProjFinal\oVRPlugin\unspecified\AndroidManifest.xml:16:9-18:39
+	android:value
+		ADDED from C:\Users\lev\Documents\UnityVRGipProj\app\UnityVRGipProjFinal\unityVRGipProj\src\main\AndroidManifest.xml:15:71-94
+	android:name
+		ADDED from C:\Users\lev\Documents\UnityVRGipProj\app\UnityVRGipProjFinal\unityVRGipProj\src\main\AndroidManifest.xml:15:16-70
+uses-sdk
+ADDED from C:\Users\lev\Documents\UnityVRGipProj\app\UnityVRGipProjFinal\unityVRGipProj\src\main\AndroidManifest.xml:17:3-71
+MERGED from [UnityVRGipProjFinal.libs:opencv:unspecified] C:\Users\lev\Documents\UnityVRGipProj\app\UnityVRGipProjFinal\unityVRGipProj\build\intermediates\exploded-aar\UnityVRGipProjFinal.libs\opencv\unspecified\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from C:\Users\lev\Documents\UnityVRGipProj\app\UnityVRGipProjFinal\unityVRGipProj\src\main\AndroidManifest.xml:17:39-68
+		INJECTED from C:\Users\lev\Documents\UnityVRGipProj\app\UnityVRGipProjFinal\unityVRGipProj\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\lev\Documents\UnityVRGipProj\app\UnityVRGipProjFinal\unityVRGipProj\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\lev\Documents\UnityVRGipProj\app\UnityVRGipProjFinal\unityVRGipProj\src\main\AndroidManifest.xml:17:13-38
+		INJECTED from C:\Users\lev\Documents\UnityVRGipProj\app\UnityVRGipProjFinal\unityVRGipProj\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\lev\Documents\UnityVRGipProj\app\UnityVRGipProjFinal\unityVRGipProj\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\lev\Documents\UnityVRGipProj\app\UnityVRGipProjFinal\unityVRGipProj\src\main\AndroidManifest.xml:18:3-65
+MERGED from [UnityVRGipProjFinal:oVRPlugin:unspecified] C:\Users\lev\Documents\UnityVRGipProj\app\UnityVRGipProjFinal\unityVRGipProj\build\intermediates\exploded-aar\UnityVRGipProjFinal\oVRPlugin\unspecified\AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from C:\Users\lev\Documents\UnityVRGipProj\app\UnityVRGipProjFinal\unityVRGipProj\src\main\AndroidManifest.xml:18:20-62
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\lev\Documents\UnityVRGipProj\app\UnityVRGipProjFinal\unityVRGipProj\src\main\AndroidManifest.xml:19:3-66
+MERGED from [UnityVRGipProjFinal:oVRPlugin:unspecified] C:\Users\lev\Documents\UnityVRGipProj\app\UnityVRGipProjFinal\unityVRGipProj\build\intermediates\exploded-aar\UnityVRGipProjFinal\oVRPlugin\unspecified\AndroidManifest.xml:8:5-68
+	android:name
+		ADDED from C:\Users\lev\Documents\UnityVRGipProj\app\UnityVRGipProjFinal\unityVRGipProj\src\main\AndroidManifest.xml:19:20-63
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\lev\Documents\UnityVRGipProj\app\UnityVRGipProjFinal\unityVRGipProj\src\main\AndroidManifest.xml:20:3-78
+MERGED from [UnityVRGipProjFinal:oVRPlugin:unspecified] C:\Users\lev\Documents\UnityVRGipProj\app\UnityVRGipProjFinal\unityVRGipProj\build\intermediates\exploded-aar\UnityVRGipProjFinal\oVRPlugin\unspecified\AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from C:\Users\lev\Documents\UnityVRGipProj\app\UnityVRGipProjFinal\unityVRGipProj\src\main\AndroidManifest.xml:20:20-75
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\lev\Documents\UnityVRGipProj\app\UnityVRGipProjFinal\unityVRGipProj\src\main\AndroidManifest.xml:21:3-62
+	android:name
+		ADDED from C:\Users\lev\Documents\UnityVRGipProj\app\UnityVRGipProjFinal\unityVRGipProj\src\main\AndroidManifest.xml:21:20-60
+uses-feature#0x00020000
+ADDED from C:\Users\lev\Documents\UnityVRGipProj\app\UnityVRGipProjFinal\unityVRGipProj\src\main\AndroidManifest.xml:22:3-52
+	android:glEsVersion
+		ADDED from C:\Users\lev\Documents\UnityVRGipProj\app\UnityVRGipProjFinal\unityVRGipProj\src\main\AndroidManifest.xml:22:17-49
+uses-feature#android.hardware.touchscreen
+ADDED from C:\Users\lev\Documents\UnityVRGipProj\app\UnityVRGipProjFinal\unityVRGipProj\src\main\AndroidManifest.xml:23:3-88
+	android:required
+		ADDED from C:\Users\lev\Documents\UnityVRGipProj\app\UnityVRGipProjFinal\unityVRGipProj\src\main\AndroidManifest.xml:23:61-85
+	android:name
+		ADDED from C:\Users\lev\Documents\UnityVRGipProj\app\UnityVRGipProjFinal\unityVRGipProj\src\main\AndroidManifest.xml:23:17-60
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from C:\Users\lev\Documents\UnityVRGipProj\app\UnityVRGipProjFinal\unityVRGipProj\src\main\AndroidManifest.xml:24:3-99
+	android:required
+		ADDED from C:\Users\lev\Documents\UnityVRGipProj\app\UnityVRGipProjFinal\unityVRGipProj\src\main\AndroidManifest.xml:24:72-96
+	android:name
+		ADDED from C:\Users\lev\Documents\UnityVRGipProj\app\UnityVRGipProjFinal\unityVRGipProj\src\main\AndroidManifest.xml:24:17-71
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from C:\Users\lev\Documents\UnityVRGipProj\app\UnityVRGipProjFinal\unityVRGipProj\src\main\AndroidManifest.xml:25:3-108
+	android:required
+		ADDED from C:\Users\lev\Documents\UnityVRGipProj\app\UnityVRGipProjFinal\unityVRGipProj\src\main\AndroidManifest.xml:25:81-105
+	android:name
+		ADDED from C:\Users\lev\Documents\UnityVRGipProj\app\UnityVRGipProjFinal\unityVRGipProj\src\main\AndroidManifest.xml:25:17-80
+android:uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from C:\Users\lev\Documents\UnityVRGipProj\app\UnityVRGipProjFinal\unityVRGipProj\src\main\AndroidManifest.xml:2:1-26:12 reason: com.oculus.Integration has a targetSdkVersion < 4
+android:uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from C:\Users\lev\Documents\UnityVRGipProj\app\UnityVRGipProjFinal\unityVRGipProj\src\main\AndroidManifest.xml:2:1-26:12 reason: com.oculus.Integration has a targetSdkVersion < 4

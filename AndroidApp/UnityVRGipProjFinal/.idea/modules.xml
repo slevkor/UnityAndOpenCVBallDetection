@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/UnityVRGipProjFinal.iml" filepath="$PROJECT_DIR$/UnityVRGipProjFinal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libs/libs.iml" filepath="$PROJECT_DIR$/libs/libs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oVRPlugin/oVRPlugin.iml" filepath="$PROJECT_DIR$/oVRPlugin/oVRPlugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libs/opencv/opencv.iml" filepath="$PROJECT_DIR$/libs/opencv/opencv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/unityVRGipProj/unityVRGipProj.iml" filepath="$PROJECT_DIR$/unityVRGipProj/unityVRGipProj.iml" />
+    </modules>
+  </component>
+</project>

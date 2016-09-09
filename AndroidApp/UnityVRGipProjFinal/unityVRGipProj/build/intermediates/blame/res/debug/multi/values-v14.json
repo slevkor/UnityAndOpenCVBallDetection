@@ -1,0 +1,28 @@
+[
+    {
+        "outputFile": "C:\\Users\\lev\\Documents\\UnityVRGipProj\\app\\UnityVRGipProjFinal\\unityVRGipProj\\build\\intermediates\\res\\merged\\debug\\values-v14\\values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 3,
+                    "endColumn": 8,
+                    "endOffset": 154
+                },
+                "from": {
+                    "file": "C:\\Users\\lev\\Documents\\UnityVRGipProj\\app\\UnityVRGipProjFinal\\unityVRGipProj\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 0,
+                        "startOffset": 53,
+                        "endLine": 3,
+                        "endColumn": 8,
+                        "endOffset": 153
+                    }
+                }
+            }
+        ]
+    }
+]

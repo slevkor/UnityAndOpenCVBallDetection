@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UnityVRGipProj</string>
+    <string name="lib_name">GearVR</string>
+    <style name="UnityThemeSelector" parent="android:Theme.Light.NoTitleBar.Fullscreen">
+</style>
+</resources>
