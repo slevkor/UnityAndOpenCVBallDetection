@@ -133,7 +133,8 @@ public class OurUnityPlayer  extends UnityPlayerActivity implements CameraBridge
                 if (radius[0]*2>mRgba.rows()){
                     diameter = mRgba.rows();
                 }
-                Dis = 15 - (diameter/mRgba.rows())*14;
+                //Dis = 15 - (diameter/mRgba.rows())*14;
+                Dis = 1/(diameter/mRgba.rows());
                 //Imgproc.drawMarker(mRgba, new Point(x,y),new Scalar(40,40,40));
                 //circle(mRgba, new Point(x,y),10, new Scalar(0,0,255),-1);
             }
